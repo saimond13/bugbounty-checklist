@@ -115,5 +115,3 @@ Este checklist está diseñado para ayudarme a mantener un flujo organizado y pr
 
 ---
 
-> _"The best bug bounty is the one you learn from."_ 🧠
-
